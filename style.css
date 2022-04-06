@@ -1,0 +1,26 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:white;
+}
+
+#hd3{
+	display: inline-block;
+	color: purple;
+	background-color: pink;
+	font-family: fantasy;
+}
+#note{
+	display:inline-block;
+	color: purple;
+	background-color:pink;
+	font-family:fantasy;
+}
+
